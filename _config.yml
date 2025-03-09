@@ -25,7 +25,7 @@ author:
   avatar: "profile.png"
   name: "Hyojin Ju"
   pronouns: "she/her"
-  bio: #"Short biography for the left-hand sidebar"
+  bio: Ph.D. student at the Human-centered Intelligent Systems Lab (HIS Lab), CSE, POSTECH.
   location: "Pohang, South Korea"
   employer: #"Red Brick University"
   uri: # URL
@@ -45,7 +45,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "ooakind"
+  github: #"ooakind"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 

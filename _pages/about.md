@@ -17,7 +17,37 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and 
+
+Conference / Journal Papers (Full Papers)
+------
+
+- _Toward Affective Empathy via Personalized Analogy Generation: A Case Study on Microaggression_ [[link](https://programs.sigchi.org/chi/2025/program/content/188245)] [[pdf](/files/papers/chi25b-sub9551-cam-i16.pdf)] [[video](/files/videos/chi2025_final_video.mp4)]<br>
+  <sub><span>
+    **Hyojin Ju**, Jungeun Lee, Seungwon Yang, Jungseul Ok, Inseok Hwang<br>
+    CHI '25: CHI Conference on Human Factors in Computing Systems
+  </span></sub>
+
+
+- _SleepGuru: Personalized Sleep Planning System for Real-life Acionanility and Negotiability_ [[link](https://dl.acm.org/doi/10.1145/3526113.3545709)] [[video](https://www.youtube.com/watch?v=7NrRZHVA1eI)] <br>
+<sub><span style="color:gray">
+  Jungeun Lee, Sungnam Kim, Minki Cheon, **Hyojin Ju**, JaeEun Lee, Inseok Hwang<br>
+  UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology
+</span></sub>
+
+
+Demo / Workshop Papers
+------
+- _Toward Affective Empathy via Personalized Analogy Generation: A Case Study on Microaggression_ [[link](https://programs.sigchi.org/chi/2025/program/content/194724)] <br>
+  <sub><span style="color:gray">
+    **Hyojin Ju**, Jungeun Lee, Seungwon Yang, Jungseul Ok, Inseok Hwang<br>
+    CHI EA '25: Extended Abstracts of the 2025 CHI Conference on Human Factors in Computing Systems (Interactivity)
+  </span></sub>
+
+- _Demonstrating SleepGuru: Personalized Sleep Planning System for Real-life Actionability and Negotiability_ [[link](https://dl.acm.org/doi/10.1145/3526114.3558664)] <br>
+<sub><span style="color:gray">
+  Jungeun Lee, **Hyojin Ju**, Sungnam Kim, Minki Cheon, JaeEun Lee, Inseok Hwang<br>
+  UIST '22 Adjunct: Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology
+</span></sub>
 
 
 Others
