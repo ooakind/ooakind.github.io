@@ -9,7 +9,7 @@ redirect_from:
 
 
 I am actively exploring human-centered intelligent systems, asking the long-term research question:  
-> **_"Could highly intelligent AI systems mitigate unnecessary social conflicts in human lives by reducing the inevitable human errors that cause them?"_**
+> **_"Could highly intelligent AI systems mitigate social conflicts by reducing inevitable human errors that cause them?"_**
 
 As an amateur researcher, I have been delving into the question of what kinds of AI systems would be effective in addressing various real-life communication challenges and how to design and develop such systems. 
 
