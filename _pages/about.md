@@ -29,7 +29,7 @@ My current research interests include **personal AI assistants, large language m
 
 ### Conference / Journal Papers (Full Papers)
 
-- _Toward Affective Empathy via Personalized Analogy Generation: A Case Study on Microaggression_ [[link](https://programs.sigchi.org/chi/2025/program/content/188245)] [[pdf](/files/papers/chi25b-sub9551-cam-i16.pdf)] [[video](https://www.youtube.com/watch?v=sT1gxhITWyU)]<br>
+- _Toward Affective Empathy via Personalized Analogy Generation: A Case Study on Microaggression_ [[link](https://dl.acm.org/doi/10.1145/3706598.3714122)] [[video](https://www.youtube.com/watch?v=sT1gxhITWyU)]<br>
   <sub><span>
     **Hyojin Ju**, Jungeun Lee, Seungwon Yang, Jungseul Ok, Inseok Hwang<br>
     CHI '25: CHI Conference on Human Factors in Computing Systems
