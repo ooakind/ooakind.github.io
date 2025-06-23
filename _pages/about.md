@@ -20,8 +20,9 @@ My current research interests include **personal AI assistants, large language m
 
 <!-- News
 ====== -->
-
-
+## Education
+* B.S. in Electrical Engineering, POSTECH, Feb. 2023
+* Integrated Ph.D. Program in Computer Science and Engineering, POSTECH, Feb. 2023 - Present
 
 
 ## Publications
