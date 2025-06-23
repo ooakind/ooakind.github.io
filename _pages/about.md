@@ -35,7 +35,7 @@ My current research interests include **personal AI assistants, large language m
   </span></sub>
 
 
-- _SleepGuru: Personalized Sleep Planning System for Real-life Acionanility and Negotiability_ [[link](https://dl.acm.org/doi/10.1145/3526113.3545709)] [[video](https://www.youtube.com/watch?v=7NrRZHVA1eI)] <br>
+- _SleepGuru: Personalized Sleep Planning System for Real-life Acionability and Negotiability_ [[link](https://dl.acm.org/doi/10.1145/3526113.3545709)] [[video](https://www.youtube.com/watch?v=7NrRZHVA1eI)] <br>
 <sub><span>
   Jungeun Lee, Sungnam Kim, Minki Cheon, **Hyojin Ju**, JaeEun Lee, Inseok Hwang<br>
   UIST '22: Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology
