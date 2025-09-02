@@ -11,9 +11,9 @@ redirect_from:
 I am actively exploring human-centered intelligent systems, asking the long-term research question:  
 > **_"Could highly intelligent AI systems reduce social conflicts by mitigating the inevitable human errors behind them?"_**
 
-As an amateur researcher, I have been delving into the question of what kinds of AI systems would be effective in addressing various real-life communication challenges and how to design and develop such systems. 
+I have been delving into the follow-up questions of what kinds of AI systems would be effective in addressing various real-life social challenges and how to design and develop such systems. 
 
-My current research interests include **personal AI assistants, large language models that mimic human cognitive and emotional processes, and personality and social psychology**.
+My current research interests include **personal AI assistants, AI agents that understand human cognitive and emotional processes, and personality and social psychology**.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
